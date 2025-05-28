@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<br>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barrr-404/Barrr-404/output/pacman-contribution-graph-dark.svg">
@@ -35,8 +35,6 @@
 </picture>
 
 ###
-
-<br>
 
 <div>
   <span style="font-family: 'Roboto'; font-size: 20px;">
