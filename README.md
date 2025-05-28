@@ -34,6 +34,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Barrr-404/Barrr-404/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <br>
 
 <div>
